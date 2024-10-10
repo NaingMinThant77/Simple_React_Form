@@ -1,0 +1,52 @@
+.bg-color {
+  background-color: #4584ff;
+}
+
+.main {
+  width: 60%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.bg {
+  box-shadow: 0px 17px 19px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.form-div {
+  margin-bottom: 8px;
+}
+
+.form-div label {
+  display: block;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.form-div input {
+  font-size: 18px;
+  width: 90%;
+  border-radius: 20px;
+  border: 1px solid #9e9e9e;
+  padding: 4px 4px;
+  margin-top: 4px;
+}
+
+.btn {
+  color: #fff;
+  padding: 4px 8px;
+  background-color: #4564ff;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  width: 40%;
+  border-radius: 6px;
+  margin-top: 4px;
+}
+
+.card-mt {
+  margin-top: 30px;
+  padding: 10px;
+}
